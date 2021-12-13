@@ -2,8 +2,11 @@ package com.company;
 
 import java.util.Scanner;
 
-public class Main {
-  // misparim shlemim:
+public class Main { 
+
+    public static void main(String[] args) {
+      
+       // misparim shlemim:
        int mispar;
        mispar = 3;
        int number = 4;
@@ -19,11 +22,8 @@ public class Main {
         char c = '#';
         boolean b = true;
 
-        String s = "Einat";
+        String st = "Einat";
         System.out.println(mispar);
-
-    // program that takes 2 variabl
-    public static void main(String[] args) {
         String stringNew = "Einat";
         String stringNew1 = "roy";
 
